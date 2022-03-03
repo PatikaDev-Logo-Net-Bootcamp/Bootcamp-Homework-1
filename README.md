@@ -1,30 +1,30 @@
 # Bootcamp-Homework-1
 
-#Ödev Metni - HomeworkOne
+# Ödev Metni - HomeworkOne
 Merhaba Arkadaşlar 1. Hafta Ödeviniz
 
--Bir adet form oluşturulacak. Form içinde ad soyad email ve password için input olacak.(Login ekranı gibi)
+- Bir adet form oluşturulacak. Form içinde ad soyad email ve password için input olacak.(Login ekranı gibi)
 
--Api yazılacak ve HttPost methodunu kullanacak.
+- Api yazılacak ve HttPost methodunu kullanacak.
 
--EMail validasyonda girilen email uygun olup olmadığı kontrol edilsin.
+- EMail validasyonda girilen email uygun olup olmadığı kontrol edilsin.
 
--Password için uzunluk kontrolü 8 karakter olacak en az 1 büyük harf en az 1 karakter en az bir sayı olacak.
+- Password için uzunluk kontrolü 8 karakter olacak en az 1 büyük harf en az 1 karakter en az bir sayı olacak.
 
--Dataannotions da RegEx attribute custom attribute yazabilirsiniz validasyonlar için.
+- Dataannotions da RegEx attribute custom attribute yazabilirsiniz validasyonlar için.
 
--Hata mesajları Türkçe olmalıdır.
+- Hata mesajları Türkçe olmalıdır.
 
--Response tipi için class yazılacak.
+- Response tipi için class yazılacak.
 
--Prop olarak Success error ve data olacak.
+- Prop olarak Success error ve data olacak.
 
--Başarılı postlar success true data giriş işlemi başarılı error null gelecek.
+- Başarılı postlar success true data giriş işlemi başarılı error null gelecek.
 
--Hatalı postlar succes false data null error hatalı giriş dönecek
+- Hatalı postlar succes false data null error hatalı giriş dönecek
 
--Tüm alanlar zorunlu olmalıdır.
+- Tüm alanlar zorunlu olmalıdır.
 
--Referans : https://stackoverflow.com/questions/16796445/net-regex-specific-to-net-c-sharp-dataannotations
+- Referans : https://stackoverflow.com/questions/16796445/net-regex-specific-to-net-c-sharp-dataannotations
 
-#NOT: Ödevler Classroma yüklenecektir.
+# NOT: Ödevler Classroma yüklenecektir.
